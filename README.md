@@ -2,7 +2,9 @@
 <!-- Animated introduction -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F172A,50:075985,100:06B6D4&text=Mathew%20Kogo&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20SRE&descAlignY=58&descSize=18" width="100%" alt="Mathew Kogo — Cloud and DevOps Engineer banner"/>
+
+![Mathew Kogo - Cloud and DevOps Engineer](https://placehold.co/1200x250/0F172A/38BDF8/png?text=MATHEW+KOGO+%7C+CLOUD+%26+DEVOPS+ENGINEER)
+
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Cloud+Infrastructure+%26+Automation;CI%2FCD+Pipeline+Engineering;Linux+%26+Containerized+Applications;Infrastructure+as+Code;Site+Reliability+Engineering" alt="Animated typing introduction"/>
